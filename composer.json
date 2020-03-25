@@ -1,5 +1,5 @@
 {
-  "name": "robertfausk/mink-panther-driver",
+  "name": "coreshop/mink-panther-driver",
   "description": "Symfony Panther driver for Mink framework",
   "keywords": [
     "Symfony",
@@ -14,6 +14,16 @@
     {
       "name": "Robert Freigang",
       "email": "robertfreigang@gmx.de"
+    },
+    {
+      "name": "Dalibor Karlović",
+      "email": "dalibor.karlovic@flexolabs.io"
+    },
+    {
+      "name": "Dominik Pfaffenbauer",
+      "email": "dominik@pfaffenbauer.at",
+      "homepage": "https://www.pfaffenbauer.at/",
+      "role": "Developer"
     }
   ],
   "require": {
